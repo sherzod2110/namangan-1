@@ -1,0 +1,380 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Rubik', sans-serif;
+}
+.container{
+  width: 1240px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.sorry{
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 28px;
+  color: #295093;
+  background-color: white;
+}
+.ul-list{
+  list-style-type: none;
+  display: flex;
+  width: 500px;
+}
+.list-item{
+  text-decoration: none;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #7A7A7A;
+  margin: auto;
+  padding: auto;
+}
+
+.box-1{
+  justify-content: space-between;
+  margin-top: 40px;
+  display: flex;
+}
+
+.list-buttonn{
+  background-color: #37AEE2;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.list-button{
+  border: none;
+  background-color:azure;
+  cursor: pointer;
+}
+.list-buttonm{
+  border: none;
+  background-color: azure;
+  cursor: pointer;
+}
+.ul-list-tem{
+  margin-left: 00px;
+
+}
+.box-5{
+  margin-top: 7px;
+}
+.d{
+  width: 1240px;
+  padding-left: 0px;
+  list-style-type: none;
+  display:flex ;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 19px;
+  color: #515151;
+  justify-content: space-between;
+}
+.v{
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  align-items: center;
+}
+.b{
+  display: flex;
+  width: 184px;
+  align-items: center;
+}
+.containerr{
+  padding-left: 0;
+  width: 1240px;
+  margin: auto;
+  margin-top: 70px;
+}
+.z{
+  font-family: Rubik;
+  font-style: normal;
+  align-items: center;
+  color: #000000;
+
+}
+.l{
+  border-right: 2px solid #DB0000;
+  height: 60px;
+  width: 2px;
+}
+.u{
+  border-right: 2px solid #DB0000;
+  height: 60px;
+  width: 2px;
+}
+.j{
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #DB0000;
+}
+.r{
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #05B135;
+}
+.p{
+  padding: 0px;
+  margin-top: 70px;
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.list-span{
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: #6B6D97;
+}
+.list-h4{
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 20px;
+  color: #202020;
+}
+
+.list-div-cont{
+  padding: 0 20px;
+  width: 1240px;
+  height: 91px;
+  background: rgba(239, 186, 84, 0.18);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.qwerty{
+  margin-right: 250px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+}
+.fifa{
+  border: none;
+  border-radius: 10px;
+  height: 40px;
+  background: linear-gradient(90deg, #FE5C28 0%, rgba(255, 139, 54, 0.9) 88.43%);
+  cursor: pointer;
+}
+
+.test{
+  background-color: #F6F6F9;
+  padding-top: 31px;
+}
+.list-box-2{
+  background-color: #F6F6F9;
+  height: 80px;
+}
+.list-h5{
+  width: 450px;
+}
+.list-ul-1{
+  display: flex;
+  margin-top: 10px;
+}
+.osmon{
+  padding: 0px;
+  
+}
+.mulish{
+  margin-left: 20px;
+}
+.list-p-3{
+  width: 550px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  color: #434343;
+}
+.full{
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: #7688A4;
+}
+.menu{
+  width: 1240px;
+  margin-top: 50px;
+}
+.list-item-flex{
+  display: flex;
+}
+.sprin{
+  list-style-type: none;
+}
+.summer{
+  background-color: #05B135;
+  width: 500px;
+  height: 600px;
+  margin-top: 26px;
+  background: #F6F6F9;
+  border-radius: 5px;
+  
+}
+.outom{
+  width: 300px;
+}
+.clomun{
+  border-bottom: 3px solid #7688A4;
+  width: 350px;
+}
+.winter{
+  margin-top: 15px;
+}
+.monday{
+  width: 200px;
+  height: 50px;
+  margin-top: 60px;
+  margin-left: 250px;
+  border: none;
+  border-radius: 7px;
+  background-color: #295093;
+  color: #F6F6F9;
+  cursor: pointer;
+}
+.colorr{
+  background-color: #F6F6F9;
+  width: 1270px;
+  height: 250px;
+  margin-top: 50px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.list-spann{
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: #295093;
+  display: block;
+}
+.div-list-span1{
+  padding-top: 60px;
+}
+.span-list{
+  width: 50px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  color: #333333;
+}
+.list-content{
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.list-bck-color{
+  background-color:  #295093;
+  height: 300px;
+}
+.box-wadov{
+  text-decoration: none;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  color: #202020;
+}
+.blue{
+  width: 200px;
+  height: 40px;
+  cursor: pointer;
+  padding-top: 10px;
+  border: none;
+  color: #F6F6F9;
+  margin-top: 20px;
+  border-radius: 5px;
+  align-items: center;
+  background-color: #133C82;
+}
+.clear{
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+}
+.figma{
+  color: #F6F6F9;
+  margin-left: 100px;
+  margin-top: 50px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.list-buttonnn{
+  background-color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-left: 140px;
+}
+.clasa{
+  width: 1270px;
+  border-bottom: 4px solid #133C82;
+}
+.qator-5{
+  width: 400px;
+  color: #F6F6F9;
+  margin-top: 20px;
+}
+.soat{
+  list-style-type: none;
+  padding: 0px;
+  color: #F6F6F9;
+}
+.soate{
+  margin-left: 120px;
+  margin-top: 40px;
+  list-style-type: none;
+  padding: 0px;
+  color: #F6F6F9;
+}
+.cola{
+  display: flex;
+}
+.soatt{
+  margin-left: 120px;
+  list-style-type: none;
+  color: #F6F6F9;
+  height: 100px;
+}
+.li-list{
+  margin-top: 10px;
+}
+.sore{
+  margin-top: 10px;
+}
+.dul{
+  margin-top: 13px;
+}
+.dull{
+  margin-top: 20px;
+}
